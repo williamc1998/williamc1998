@@ -25,6 +25,7 @@ Here is my current language and frameworks stack:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050)"width="35" height="21" valign="center">                                                                                                                      
 <p>
   
+  
  Here is my software stack:
 <div>  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png?20200803065702"width="40 height="40">
