@@ -1,8 +1,7 @@
 Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
 
 Here is my current language and frameworks stack:
-<div>
-<div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"width="40" height="40">
@@ -11,7 +10,8 @@ Here is my current language and frameworks stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png?20200317115153"width="40 height="40>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png?20200317115153"width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"width="40" height="40>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050)"width="35" height="21">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40">
