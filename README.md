@@ -21,7 +21,15 @@ Here is my current language and tools stack:
   
  Here is my software stack:
 <div>  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png?20200803065702"width="40 height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"width="40" height="40">
+ <img src=""width="40" height="40">
+ <img src=""width="40" height="40">
+ <img src=""width="40" height="40">
+ <img src=""width="40" height="40">
+ <img src=""width="40" height="40">
+ <img src=""width="40" height="40">
 <div>
 
