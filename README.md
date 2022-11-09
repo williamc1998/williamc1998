@@ -25,7 +25,7 @@ Here is my current language and tools stack:
  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"width="40" height="40">
- <img src=""width="40" height="40">
+ <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"width="40" height="40">
  <img src=""width="40" height="40">
  <img src=""width="40" height="40">
  <img src=""width="40" height="40">
