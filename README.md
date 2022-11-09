@@ -6,7 +6,7 @@ Here is my current language and tools stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"width="40" height="40">
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050)"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"width="40" height="40">
