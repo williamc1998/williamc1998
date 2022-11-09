@@ -49,6 +49,6 @@ My next goal over the coming year is to learn how to utilise Apache ETL tools, a
 <div>
 
 <br><br/>                                                                                                                                                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamc1998)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamc1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                        
                                                                                                              
                                                                                                             
