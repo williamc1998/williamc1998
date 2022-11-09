@@ -1,6 +1,6 @@
 Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
 
-Here is my current language and tools stack:
+Here is my current language and frameworks stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40">
@@ -13,8 +13,6 @@ Here is my current language and tools stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"width="40" height="40">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"width="40" height="40">
 <div>
@@ -26,10 +24,19 @@ Here is my current language and tools stack:
  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"width="40" height="40">
  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"width="40" height="40">
- <img src=""width="40" height="40">
- <img src=""width="40" height="40">
+ <img src=""https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"width="40" height="40""width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="40" height="40">
  <img src=""width="40" height="40">
  <img src=""width="40" height="40">
  <img src=""width="40" height="40">
 <div>
+                                  
+Other tools:
+<div>
+  <img src="" width="40" height="40>
+  <img src="" width="40" height="40>
+  <img src="" width="40" height="40>
+  <img src="" width="40" height="40>
+  <img src="" width="40" height="40>
+  <img src="" width="40" height="40>  
 
