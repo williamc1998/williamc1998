@@ -37,8 +37,7 @@ Here is my current language and frameworks stack:
  <img src="https://www.freelogovectors.net/wp-content/uploads/2019/07/stata-logo.jpg" width="45" height="20" valign="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">                                                                                                                            
 <div>             
-          
-<div> <div>                                                                                                            
+                                                                                                                   
 I have worked on a variety of projects during my masters as well as my job as a Data Analyst/Engineer, though most of these can not be publicly published to GitHub, so it is mostly personal projects I had worked on when learning new skills that are posted here, apart from a couple of courseworks during class and a public dashboard project I had demo'd at my company. Most of my version control is done on company accounts.
 
 
@@ -48,6 +47,9 @@ My next goal over the coming year is to learn how to utilise Apache ETL tools, a
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png?20191014185111" width="102" height="37">
 <div>
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamc1998)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                              
+
+<br>
+<br/>                                                                                                                                                   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamc1998)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                        
                                                                                                              
                                                                                                             
