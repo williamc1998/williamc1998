@@ -1,3 +1,7 @@
+<h1>
+  About me
+  <h1/>
+
 Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
 
 Here is my current language and frameworks stack:
@@ -38,8 +42,7 @@ I have worked on a variety of projects during my masters as well as my job as a 
 
 
 My next goal over the coming year is to learn how to utilise Apache ETL tools, as well as JavaScript and React.
-<div>
- <                                                                                                            
+<div>                                                                                                          
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png?20191014185111" width="102" height="37">
