@@ -6,7 +6,7 @@ Hi, I'm William, a postgraduate engineer who specialises in programming data-rel
 
 Here is my current language and frameworks stack:
 
-<div>
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"width="40" height="40">
@@ -23,7 +23,7 @@ Here is my current language and frameworks stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png?20180808062052" width="41" height="20" valign="center">                                                                                                                     
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050)"width="35" height="21" valign="center">                                                                                                                      
-<div>
+<p>
   
  Here is my software stack:
 <div>  
