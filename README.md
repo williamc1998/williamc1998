@@ -28,7 +28,7 @@ Here is my current language and frameworks stack:
  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"width="40" height="40""width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="40" height="40">
- <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"width="40" height="15">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"width="45" height="12">
  <img src="https://www.freelogovectors.net/wp-content/uploads/2019/07/stata-logo.jpg" width="43" height="40>
  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">                                                                                                                            
 <div>             
