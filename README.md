@@ -1,8 +1,7 @@
-<header>
-  <div>
-    About me
-  <div>
-<header/> 
+<div class="header">
+  <h1>Header</h1>
+  <p>About me</p>
+</div>
 
 Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
 
