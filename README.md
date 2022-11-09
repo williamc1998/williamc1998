@@ -48,6 +48,6 @@ My next goal over the coming year is to learn how to utilise Apache ETL tools, a
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png?20191014185111" width="102" height="37">
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamc1998)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                              
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamc1998)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                              
                                                                                                              
                                                                                                             
