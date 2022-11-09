@@ -1,6 +1,5 @@
-<div class="header">
-  <h1>Header</h1>
-  <p>About me</p>
+<div class="Header">
+  <h1>About me</h1>
 </div>
 
 Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
