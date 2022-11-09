@@ -36,9 +36,9 @@ Here is my current language and frameworks stack:
 <div> <div>                                                                                                            
 I have worked on a variety of projects during my masters as well as my job as a Data Analyst/Engineer, though most of these can not be publicly published to GitHub, so it is mostly personal projects I had worked on when learning new skills that are posted here, apart from a couple of courseworks during class and a public dashboard project I had demo'd at my company. Most of my version control is done on company accounts.
 
-<h1>
+<div>
 My next goal over the coming year is to learn how to utilise Apache ETL tools, as well as  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40">JavaScript and React.
-<h1/>
+<div>
                                                                                                              
                                                                                                              
                                                                                                             
