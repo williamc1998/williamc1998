@@ -8,7 +8,7 @@ Here is my current language and frameworks stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg"width="40" height="40">
-  <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" width="41" height="20">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png?20180808062052" width="41" height="20">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png?20200317115153"width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"width="33.3" height="40>
