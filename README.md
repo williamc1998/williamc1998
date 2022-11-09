@@ -42,7 +42,7 @@ My next goal over the coming year is to learn how to utilise Apache ETL tools, a
  <                                                                                                            
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png?20191014185111" width="50" height="25">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png?20191014185111" width="110" height="40">
 <div>
                                                                                                              
                                                                                                              
