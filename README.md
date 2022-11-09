@@ -1,8 +1,9 @@
 Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
 
 Here is my current language and frameworks stack:
-
-<\ndiv>
+<div>
+<div>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"width="40" height="40">
@@ -17,10 +18,10 @@ Here is my current language and frameworks stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"width="40" height="40">
-<div\n>
+<div>
   
  Here is my software stack:
-<\ndiv>  
+<div>  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png?20200803065702"width="40 height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">
@@ -31,10 +32,10 @@ Here is my current language and frameworks stack:
  <img src=""width="40" height="40">
  <img src=""width="40" height="40">
  <img src=""width="40" height="40">
-<div\n>
+<div>
                                   
 Other tools:
-<\ndiv>
+<div>
   <img src="" width="40" height="40>
   <img src="" width="40" height="40>
   <img src="" width="40" height="40>
