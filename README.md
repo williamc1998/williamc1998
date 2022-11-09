@@ -17,8 +17,8 @@ Here is my current language and frameworks stack:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png?20180808062052" width="41" height="20">                                                                                                                     
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050)"width="35" height="21">                                                                                                                      
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png?20180808062052" width="41" height="20" valign="center">                                                                                                                     
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050)"width="35" height="21" valign="center">                                                                                                                      
 <div>
   
  Here is my software stack:
@@ -30,7 +30,7 @@ Here is my current language and frameworks stack:
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"width="40" height="41">
  <img src="https://www.freelogovectors.net/wp-content/uploads/2019/07/stata-logo.jpg" width="45" height="20" valign="center>
- <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">                                                                                                                            
+ <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40" valign="center>                                                                                                                            
 <div>             
                                                                                                              
 I have worked on a variety of projects during my masters as well as my job as a Data Analyst/Engineer, but most of these are not allowed to be publicly published to GitHub, so it is mostly personal projects I had worked on when learning new skills that are posted here, apart from a couple of courseworks during class and a public dashboard project I had demo'd at my company. 
