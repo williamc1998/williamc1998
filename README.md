@@ -1,4 +1,5 @@
 Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
+
 Here is my current language and frameworks stack:
 
 <div>
@@ -30,3 +31,10 @@ Here is my current language and frameworks stack:
  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg"width="40" height="40">                                                                                                                            
 <div>             
+                                                                                                             
+I have worked on a variety of projects during my masters as well as my job as a Data Analyst/Engineer, but most of these are not allowed to be publicly published to GitHub, so it is mostly personal projects I had worked on when learning new skills that are posted here, apart from a couple of courseworks during class and a public dashboard project I had demo'd at my company. 
+
+My next goal over the coming year is to learn how to utilise Apache ETL tools, as well as JavaScript and React.
+                                                                                                             
+                                                                                                             
+                                                                                                            
