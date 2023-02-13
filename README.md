@@ -11,7 +11,7 @@
   <h1>About me</h1>
 </div>
 
-Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative apps and automation. 
+Hi, I'm William, a postgraduate engineer who specialises in programming data-related projects from machine learning and visualisation to transformative web-apps and automation. 
 
 Here is my current language and frameworks stack:
 
@@ -56,9 +56,9 @@ Currently Learning:
 <div>   
 
                                                                                                                                                    
-I have worked on a variety of projects during my masters as well as my job as a Data Analyst/Engineer, though most of these can not be publicly published to GitHub, so it is mostly personal projects I had worked on when learning new skills that are posted here, apart from a couple of courseworks during class and a public dashboard project I had demo'd at my company. Most of my version control is done on company accounts.
+I have worked on a variety of projects during my masters as well as my job as a Cloud Data Scientist, though most of these can not be publicly published to GitHub, so it is mostly personal projects I had worked on when learning new skills that are posted here, apart from a couple of courseworks during class and a public dashboard project I had demo'd at my company. Most of my version control is done on company accounts.
 
-My next goal over the coming year is to learn how to utilise Apache ETL tools, as well as JavaScript and React.
+My next goal over the coming year is to learn how to utilise Apache ETL tools, as well as JavaScript/React and Swift or Kotlin.
 
 <br><br/>                                                                                                                                                 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamc1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                        
