@@ -4,7 +4,7 @@
 
 :speech_balloon: Feel free to contact me and chat about any of the above!
 
-:books: I am currently learning more tech skills and self-studying mathematics
+:books: I am currently learning app engineering but have a data science background
 
 
 <div class="Header">
